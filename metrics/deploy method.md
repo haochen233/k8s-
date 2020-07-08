@@ -1,0 +1,1 @@
+在 metrics-server.deploment.yaml中更改spec.template.spec.hostNetwork: true
